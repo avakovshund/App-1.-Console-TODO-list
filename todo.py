@@ -20,4 +20,5 @@ while True:
             break
         case _:
             print("Wrong number.")
+
 print("Good luck with all of this shitty tasks!")
